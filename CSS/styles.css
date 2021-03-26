@@ -1,0 +1,459 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.mainbody {
+  background-color: #f2f2f2;
+  height: 750px;
+  width: 100%;
+}
+
+/* Sohan */
+.name {
+  margin: 0;
+  font-size: 4.35rem;
+  position: absolute;
+  width: 225px;
+  height: 66px;
+  left: 606px;
+  top: 409px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  line-height: 94%;
+  /* identical to box height, or 66px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #6c63ff;
+}
+
+/* Hello, I’m */
+.introl1 {
+  margin: 0;
+  font-size: 1.5625rem;
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  left: 653px;
+  top: 375px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 94%;
+  /* or 23px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+/* UI UX Web Designer */
+.introl2 {
+  margin-top: 0;
+  font-size: 1.5625rem;
+  position: absolute;
+  width: 258px;
+  height: 23px;
+  left: 590px;
+  top: 490px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 94%;
+  /* or 23px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+p {
+  display: inline-block;
+}
+
+.port {
+  position: absolute;
+  left: 285px;
+  top: 62px;
+  margin: 0;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 94%;
+  /* identical to box height, or 19px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.contact {
+  position: absolute;
+  left: 425px;
+  top: 62px;
+  margin: 0;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 94%;
+  /* identical to box height, or 19px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.profile {
+  margin: 0 auto;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 636px;
+  top: 169px;
+}
+
+#s1 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  left: 285px;
+  top: 143px;
+}
+
+#blur {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 454px;
+  top: 130px;
+}
+
+#s2 {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  left: 1058px;
+  top: 77px;
+}
+
+#s3 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 1013px;
+  top: 319px;
+}
+
+.bio {
+  position: absolute;
+  width: 634px;
+  height: 212px;
+  left: 394px;
+  top: 500px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 170%;
+  /* or 30px */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.skills {
+  position: absolute;
+  width: 154px;
+  height: 47px;
+  left: 645px;
+  top: 800px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 94%;
+  /* identical to box height, or 47px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.skillsvg {
+  position: absolute;
+  width: 613px;
+  height: 427px;
+  left: 404px;
+  top: 920px;
+}
+
+.skillHead1 {
+  position: absolute;
+  width: 270px;
+  height: 23px;
+  left: 527px;
+  top: 1505px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 94%;
+  /* or 23px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #6c63ff;
+}
+
+.designSVG {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 404px;
+  top: 1500px;
+}
+
+.designBio {
+  position: absolute;
+  width: 650px;
+  height: 114px;
+  left: 404px;
+  top: 1600px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 37px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+  text-align: left;
+
+  color: #000000;
+}
+
+.codingSVG {
+  position: absolute;
+  width: 77.85px;
+  height: 80px;
+  left: 948px;
+  top: 1853px;
+}
+
+.skillHead2 {
+  position: absolute;
+  width: 350px;
+  height: 23px;
+  left: 560px;
+  top: 1850px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 94%;
+  /* or 23px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #6c63ff;
+}
+
+.codingBio {
+  position: absolute;
+  width: 650px;
+  height: 175px;
+  left: 378px;
+  top: 1913px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 37px */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.get {
+  position: absolute;
+  width: 340px;
+  height: 47px;
+  left: 546px;
+  top: 2220px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 94%;
+  /* identical to box height, or 47px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.getBio {
+  position: absolute;
+  width: 650px;
+  height: 175px;
+  left: 381px;
+  top: 2320px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 37px */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+
+.email {
+  color: #6c63ff;
+}
+
+.button {
+  position: absolute;
+  width: 238px;
+  height: 79px;
+  left: 601px;
+  top: 2550px;
+
+  background: #6c63ff;
+  border-radius: 45px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 94%;
+  /* identical to box height, or 23px */
+
+  align-items: center;
+  letter-spacing: 0.05em;
+  padding: 20px;
+  border: none;
+  color: #ffffff;
+  border: none;
+  box-shadow: 0px 7px 22px rgba(146, 139, 255, 0.6);
+}
+
+.button:hover {
+  background: #928bff;
+  text-decoration: none;
+}
+
+.contactSVG {
+  position: absolute;
+  width: 606px;
+  height: 412px;
+  left: 413px;
+  top: 2720px;
+}
+
+.footer {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 280px;
+  position: absolute;
+  top: 3210px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 150%;
+}
+
+.dribbble {
+  position: absolute;
+  top: 50px;
+  left: 413px;
+}
+
+.behance {
+  position: absolute;
+  top: 50px;
+  left: 563px;
+}
+
+.linkedin {
+  position: absolute;
+  top: 50px;
+  left: 713px;
+}
+
+.instagram {
+  position: absolute;
+  top: 50px;
+  left: 863px;
+}
+
+.foot {
+  position: absolute;
+  width: 300px;
+  height: 30px;
+  left: 35%;
+  top: 150px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+.contact:hover {
+  color: #6c63ff;
+}
+
+.port:hover {
+  color: #6c63ff;
+}
